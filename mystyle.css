@@ -1,0 +1,18 @@
+h1 {
+	color: #f82f97;
+	text-align: center;
+}
+body {
+	background-color: #d9d9d9;
+}
+img {
+	display: block;
+	margin: 20px auto;
+}
+p {
+	text-align: center;
+	font-size: 11pt;
+	width: 60%;
+	margin: 0 auto;	
+	line-height: 150%;
+}
